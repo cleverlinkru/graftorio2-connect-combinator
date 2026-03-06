@@ -1,0 +1,5 @@
+require("__graftorio2-connect-combinator__/scripts/constants")
+require("__graftorio2-connect-combinator__/prototypes/items")
+require("__graftorio2-connect-combinator__/prototypes/entities")
+require("__graftorio2-connect-combinator__/prototypes/recipes")
+require("__graftorio2-connect-combinator__/prototypes/technologies")
